@@ -1,0 +1,17 @@
+baseurl = "https://pauloborges.github.io/"
+languageCode = "en-us"
+title = "Paulo Borges personal website"
+theme = "hugo-cactus-theme"
+googleAnalytics = ""
+disqusShortname = ""
+
+[params]
+	name = "Paulo Borges"
+	bio = "Software Engineer"
+	aboutAuthor = "Software Engineer"
+	enableRSS = true
+	iconFont = "font-awesome"
+
+[social]
+    github = "https://www.github.com/pauloborges"
+    facebook = "https://www.facebook.com/PauloSergioBorges"
