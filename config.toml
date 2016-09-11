@@ -1,4 +1,4 @@
-baseurl = "https://pauloborges.github.io/"
+baseurl = "https://pauloborges.pw/"
 languageCode = "en-us"
 title = "Paulo Borges personal website"
 theme = "hugo-cactus-theme"
